@@ -1,0 +1,16 @@
+#view {
+    color:gold;
+    width: 90.3%;
+    text-align: right;
+}
+#button {
+    width: 30%;
+}
+#view,#button,#button1{
+    padding: 15px;
+    font-size: 25px;
+    border-radius: 10px;
+}
+#button1 {
+    width: 22.4%;
+}
